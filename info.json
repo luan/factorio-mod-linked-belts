@@ -1,13 +1,13 @@
 {
-  "name": "LinkedBelts",
-  "version": "0.1.5",
+  "name": "LinkedBelts-lrf",
+  "version": "0.2.1",
   
-  "title": "Linked Belts",
+  "title": "Linked Belts (limited range fork)",
   "description": "Quantum connection between linked belts",
   
   "author": "darkfrei",
   "license": "MIT",
   
   "dependencies": ["base >= 2.0.20"],
-  "factorio_version": "2.0"
+  "factorio_version": "2.1"
 }
